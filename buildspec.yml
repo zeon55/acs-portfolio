@@ -1,6 +1,6 @@
 version: 0.1
 
-phases
+phases:
   build:
     commands:
       - echo Nothing to do yet
@@ -10,4 +10,3 @@ artifacts:
     - favicon.ico
     - styles/main.css
     - images/*
-    
